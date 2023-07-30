@@ -1,0 +1,14 @@
+Final Report
+
+The total number of vehicles crossed per phase: 
+Total vehicles in P1: 1
+Total vehicles in P2: 1
+Total vehicles in P3: 1
+Total vehicles in P4: 1
+Total vehicles in P5: 1
+Total vehicles in P6: 0
+Total vehicles in P7: 1
+Total vehicles in P8: 1
+
+The average waiting time to cross: 105.0
+Total emissions: 201.25

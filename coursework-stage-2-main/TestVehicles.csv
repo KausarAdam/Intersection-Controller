@@ -1,0 +1,14 @@
+﻿S3,Q20016,Bus,8,Straight,Crossed,5
+S4,A20012,Car,3,Straight,Waiting,3
+S2,H20013,Truck,10,Right,Waiting,6
+S1,E20014,Car,3,Left,Crossed,3
+S4,F20015,Bus,8,Straight,Waiting,5
+S3,B20012,Car,3,Right,Crossed,3
+S2,W20017,Truck,10,Left,Crossed,6
+S1,K20014,Car,3,Right,Waiting,3
+S3,D20018,Bus,8,Straight,Waiting,5
+S4,A20019,Car,3,Left,Crossed,3
+S2,R20010,Truck,10,Straight,Waiting,6
+S1,Z20011,Bus,8,Right,Waiting,5
+S3,D20019,Truck,10,Left,Waiting,6
+S3,T20012,Car,3,Left,Crossed,3
